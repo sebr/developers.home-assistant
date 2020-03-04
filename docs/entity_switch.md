@@ -63,6 +63,7 @@ class MySwitch(SwitchDevice):
 
 ### Available device classes
 Optional. What type of device this. It will possibly map to google device types.
+
 | Value | Description
 | ----- | -----------
 | outlet | Device is an outlet for power.
